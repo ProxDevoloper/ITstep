@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+
+}
+.main{
+    background: linear-gradient(to right, #cd07ff, #0360ff);
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    height: 600px;
+    width: 500px;
+    position: relative;
+    left: 650px;
+    top: 100px;
+}
+
+.header{
+    
+        background-color: white;
+        color: #b6f3f6;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 15px;
+        position: sticky;
+        text-align: center;
+}
+.header h2{
+    top: 10px;
+    left: 10px;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: #1b0955d2;
+}
+
+.header{
+    background: linear-gradient(to right, #cd07ff, #0360ff);
+    color: #b6f3f6;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    position: sticky;
+    text-align: center;
+}
+.main{
+    background-color: #3fd8e6db;
+    border-radius: 15px;
+}
+
+.news{
+   
+}
